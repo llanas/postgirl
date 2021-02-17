@@ -1,0 +1,8 @@
+{
+    "deno.enable": true, // enables extension
+    "deno.lint": true, // inline deno lint diagnostics, requires `deno.unstable`
+    "deno.unstable": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "deno.import_intellisense_origins": {} // also provides unstable type declarations in VS Code
+}
